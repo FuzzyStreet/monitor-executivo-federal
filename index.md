@@ -33,3 +33,7 @@ Projeto em fase inicial de definição do modelo de dados.
 Este projeto foi desenvolvido com fins educacionais, como parte
 do curso de Banco de Dados, com o objetivo de aplicar conceitos
 teóricos em um cenário próximo da realidade.
+
+## Nota metodológica
+O projeto adota uma abordagem analítica que considera que a execução de planos de governo não ocorre de forma estritamente binária (cumprido ou não cumprido), mas de maneira gradual e, muitas vezes, difusa. Nesse sentido, o nome de usuário **FuzzyStreet** é utilizado como identidade do autor e dialoga com a proposta do projeto ao representar o espaço onde o planejamento institucional encontra a execução prática das políticas públicas.
+
