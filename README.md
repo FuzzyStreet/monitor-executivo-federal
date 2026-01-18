@@ -4,6 +4,13 @@ Projeto acadêmico de banco de dados com foco na modelagem e organização
 de informações relacionadas ao mandato do Poder Executivo Federal,
 utilizando dados públicos e estrutura relacional.
 
+## 🗺️ Diagrama Entidade-Relacionamento (DER)
+O diagrama abaixo representa o modelo conceitual do banco de dados
+do projeto *Monitoramento do Executivo Federal*.
+
+![DER](docs/der/der_modelo_conceitual.png)
+
+
 ## 🎯 Objetivo Geral
 Desenvolver um banco de dados relacional capaz de:
 - Registrar cargos do Executivo Federal
