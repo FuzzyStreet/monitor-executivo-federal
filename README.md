@@ -5,10 +5,11 @@ de informações relacionadas ao mandato do Poder Executivo Federal,
 utilizando dados públicos e estrutura relacional.
 
 ## 🗺️ Diagrama Entidade-Relacionamento (DER)
+
 O diagrama abaixo representa o modelo conceitual do banco de dados
 do projeto *Monitoramento do Executivo Federal*.
 
-[![DER](docs/der/der_modelo_conceitual.png)](https://github.com/FuzzyStreet/monitor-executivo-federal/blob/main/docs/DER%20%E2%80%93%20Monitoramento%20do%20Executivo%20Federal.drawio.png)
+![Diagrama DER](docs/DER%20–%20Monitoramento%20do%20Executivo%20Federal.drawio.png)
 
 
 ## 🎯 Objetivo Geral
