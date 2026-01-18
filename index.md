@@ -45,5 +45,6 @@ teóricos em um cenário próximo da realidade.
 O projeto adota uma abordagem analítica segundo a qual a execução de planos de governo não ocorre de forma estritamente binária (cumprido ou não cumprido), mas de maneira gradual e, muitas vezes, difusa. Nesse sentido, o nome de usuário **FuzzyStreet** é utilizado como identidade do autor e dialoga com a proposta do projeto ao representar o espaço onde o planejamento institucional encontra a execução prática das políticas públicas.
 
 ## 🔗 Repositório
+Acesse o projeto completo no GitHub:  
 https://github.com/FuzzyStreet/monitor-executivo-federal
 
