@@ -168,7 +168,7 @@ Relacionamento:
 
 ## Considerações Finais
 
-Observação sobre escopo do modelo
+### Observação sobre escopo do modelo
 
 O Diagrama Entidade-Relacionamento apresentado contempla um modelo conceitual ampliado, com entidades adicionais que representam o domínio completo do problema. Para fins de implementação inicial e desenvolvimento do modelo lógico relacional, foi adotado um subconjunto dessas entidades, detalhado no documento de Modelo Lógico do Banco de Dados.
 
