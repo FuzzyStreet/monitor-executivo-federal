@@ -168,11 +168,13 @@ Relacionamento:
 
 ## Considerações Finais
 
+Observação sobre escopo do modelo
+
+O Diagrama Entidade-Relacionamento apresentado contempla um modelo conceitual ampliado, com entidades adicionais que representam o domínio completo do problema. Para fins de implementação inicial e desenvolvimento do modelo lógico relacional, foi adotado um subconjunto dessas entidades, detalhado no documento de Modelo Lógico do Banco de Dados.
+
 O DER proposto prioriza:
+
 - Normalização dos dados
 - Clareza nos relacionamentos
 - Análise temporal das nomeações
 - Avaliação não binária da execução de promessas
-
-Este modelo serve como base para a construção do modelo lógico e da
-implementação física do banco de dados.
